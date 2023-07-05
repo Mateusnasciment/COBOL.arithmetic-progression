@@ -1,4 +1,5 @@
-# COBOL.average-progression
+# COBOL.arithmetic-progression
+
 
 
 
